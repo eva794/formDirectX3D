@@ -1,0 +1,3 @@
+C:\Users\ELVAC\source\repos\formDirectX3D\formDirectX3D\x64\Debug\formDirectX3D.DX9Form.resources
+C:\Users\ELVAC\source\repos\formDirectX3D\formDirectX3D\x64\Debug\formDirectX3D.vcxproj.GenerateResource.cache
+C:\Users\ELVAC\source\repos\formDirectX3D\formDirectX3D\x64\Debug\formDirectX3D.vcxproj.CopyComplete
